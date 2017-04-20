@@ -1,0 +1,20 @@
+﻿Построение начато 18.12.2016 17:48:43.
+     1>Проект "C:\Users\Cyberhawk\Documents\Visual Studio 2010\Projects\MustangModel\MustangModel\MustangModel.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\MustangModel.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         MustangModel.vcxproj -> C:\Users\Cyberhawk\Documents\Visual Studio 2010\Projects\MustangModel\Debug\MustangModel.exe
+       FinalizeBuildStatus:
+         Файл "Debug\MustangModel.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\MustangModel.lastbuildstate".
+     1>Построение проекта "C:\Users\Cyberhawk\Documents\Visual Studio 2010\Projects\MustangModel\MustangModel\MustangModel.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.11
